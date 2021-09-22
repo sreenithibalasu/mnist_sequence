@@ -1,0 +1,13 @@
+{
+  "max_seq_len": 5,
+  "image_height": 28,
+  "image_width": 28,
+  "CHAR_VECTOR": "1234567890x",
+  "num_classes": 11,
+  "batch_size": 128,
+  "val_batch_size": 16,
+
+  "logs_path":"./logs",
+  "checkpoints_path": "./checkpoints/training_1/cp.ckpt",
+  "epochs": 1
+}
